@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Car-Ecommerce/static/css/main.2161f65e.chunk.css",
+    "main.js": "/Car-Ecommerce/static/js/main.77f12712.chunk.js",
+    "main.js.map": "/Car-Ecommerce/static/js/main.77f12712.chunk.js.map",
+    "runtime-main.js": "/Car-Ecommerce/static/js/runtime-main.84dde621.js",
+    "runtime-main.js.map": "/Car-Ecommerce/static/js/runtime-main.84dde621.js.map",
+    "static/css/2.f2512455.chunk.css": "/Car-Ecommerce/static/css/2.f2512455.chunk.css",
+    "static/js/2.6b6774d7.chunk.js": "/Car-Ecommerce/static/js/2.6b6774d7.chunk.js",
+    "static/js/2.6b6774d7.chunk.js.map": "/Car-Ecommerce/static/js/2.6b6774d7.chunk.js.map",
+    "index.html": "/Car-Ecommerce/index.html",
+    "static/css/2.f2512455.chunk.css.map": "/Car-Ecommerce/static/css/2.f2512455.chunk.css.map",
+    "static/css/main.2161f65e.chunk.css.map": "/Car-Ecommerce/static/css/main.2161f65e.chunk.css.map",
+    "static/js/2.6b6774d7.chunk.js.LICENSE.txt": "/Car-Ecommerce/static/js/2.6b6774d7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.84dde621.js",
+    "static/css/2.f2512455.chunk.css",
+    "static/js/2.6b6774d7.chunk.js",
+    "static/css/main.2161f65e.chunk.css",
+    "static/js/main.77f12712.chunk.js"
+  ]
+}
