@@ -12,7 +12,7 @@ import "./App.css"
 function App(props) {
     const [cars, setCars] = useState(props.carList);
     const [sortBydata, setSortBydata] = useState("0");
-    const [choose, setCategory] = useState("All");
+    const [category, setCategory] = useState("All");
 
     const copyCars = props.carList.map(car => ({...car}));
 
@@ -34,7 +34,7 @@ function App(props) {
     cars.sort(sortMap[sortBydata]);
 
     const carList = cars
-    .filter(ele => choose === "All" || ele.Category === choose)
+    .filter(ele => category === "All" || ele.Category === category)
     .map(car => (
         <ItemCard
             model={car.Model}
